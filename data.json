@@ -1,0 +1,375 @@
+{
+  "transactions": [
+    {
+      "id": "dde0",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-27",
+      "account": "cash",
+      "type": "income",
+      "category": "sales",
+      "amount": 12000,
+      "description": "sold a toy",
+      "status": "paid",
+      "time": "10:02 PM"
+    },
+    {
+      "id": "ceda",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-28",
+      "account": "cash",
+      "type": "expense",
+      "category": "bill",
+      "amount": 1000,
+      "description": "bill paid for water",
+      "status": "paid",
+      "time": "10:09 PM"
+    },
+    {
+      "id": "7663",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-29",
+      "account": "bank",
+      "type": "income",
+      "category": "selling",
+      "amount": 13000,
+      "description": "sold a toy",
+      "status": "received",
+      "time": "10:14 PM"
+    },
+    {
+      "id": "b5a0",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-07-18",
+      "account": "cash",
+      "type": "income",
+      "category": "rent",
+      "amount": 5000,
+      "description": "rent from old house",
+      "status": "received",
+      "time": "10:38 PM"
+    },
+    {
+      "id": "c8a9",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-07-26",
+      "account": "bank",
+      "type": "expense",
+      "category": "rent",
+      "amount": 3000,
+      "description": "rent for the office\n",
+      "status": "pending",
+      "time": "10:39 PM"
+    },
+    {
+      "id": "9a9b",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-31",
+      "account": "cash",
+      "type": "income",
+      "category": "rent",
+      "amount": 3000,
+      "description": "rent received",
+      "status": "received",
+      "time": "10:55 PM"
+    },
+    {
+      "id": "6589",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-24",
+      "account": "bank",
+      "type": "expense",
+      "category": "rent ",
+      "amount": 10000,
+      "description": "rent paid for office",
+      "status": "paid",
+      "time": "10:59 PM"
+    },
+    {
+      "id": "604d",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-08-01",
+      "account": "cash",
+      "type": "income",
+      "category": "consultation",
+      "amount": 2000,
+      "description": "cleint a cunsultation fees",
+      "status": "received",
+      "time": "11:06 PM"
+    },
+    {
+      "id": "56a1",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-07-23",
+      "account": "cash",
+      "type": "expense",
+      "category": "painting",
+      "amount": 2000,
+      "description": "painting in site \n",
+      "status": "paid",
+      "time": "11:08 PM"
+    },
+    {
+      "id": "ce9b",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-07-21",
+      "account": "cash",
+      "type": "income",
+      "category": "catering ",
+      "amount": 12000,
+      "description": "fund from catering\n",
+      "status": "received",
+      "time": "11:18 PM"
+    },
+    {
+      "id": "58ae",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-07-29",
+      "account": "cash",
+      "type": "expense",
+      "category": "catering bill",
+      "amount": 5000,
+      "description": "paid catering bill",
+      "status": "paid",
+      "time": "11:19 PM"
+    },
+    {
+      "id": "b3f1",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-08-01",
+      "account": "cash",
+      "type": "income",
+      "category": "bonus",
+      "amount": 4000,
+      "description": "bonus from boss",
+      "status": "received",
+      "time": "11:26 PM"
+    },
+    {
+      "id": "6bba",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-08-02",
+      "account": "bank",
+      "type": "income",
+      "category": "petrol",
+      "amount": 500,
+      "description": "petrol",
+      "status": "paid",
+      "time": "11:27 PM"
+    },
+    {
+      "id": "8d6a",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-08-03",
+      "account": "cash",
+      "type": "expense",
+      "category": "stationary",
+      "amount": 150,
+      "description": "bought some stationary",
+      "status": "paid",
+      "time": "11:29 PM"
+    },
+    {
+      "id": "5fc5",
+      "userId": null,
+      "username": "afreed",
+      "date": "2025-09-01",
+      "account": "bank",
+      "type": "expense",
+      "category": "chitty",
+      "amount": 10000,
+      "description": "advance payment for chitty",
+      "status": "paid",
+      "time": "11:31 PM"
+    },
+    {
+      "id": "050f",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-08-08",
+      "account": "cash",
+      "type": "expense",
+      "category": "rent",
+      "amount": 2000,
+      "description": "rent paid",
+      "status": "paid",
+      "time": "10:40 AM"
+    },
+    {
+      "id": "12c6",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-09-28",
+      "account": "bank",
+      "type": "income",
+      "category": "rent",
+      "amount": 3000,
+      "description": "rent received",
+      "status": "received",
+      "time": "10:42 AM"
+    },
+    {
+      "id": "c129",
+      "userId": null,
+      "username": "Afreed",
+      "date": "2025-07-21",
+      "account": "cash",
+      "type": "income",
+      "category": "slaes",
+      "amount": 1200,
+      "description": "sold a book",
+      "status": "paid",
+      "time": "09:17 PM"
+    },
+    {
+      "userId": "RRzCSDp",
+      "username": "anwar",
+      "date": "2025-08-02",
+      "account": "cash",
+      "type": "income",
+      "category": "salary",
+      "amount": 20000,
+      "description": "slaary from job",
+      "status": "received",
+      "time": "01:25 PM",
+      "id": "gPPl-Kc"
+    },
+    {
+      "userId": "ViqhDei",
+      "username": "afreedct",
+      "date": "2025-08-06",
+      "account": "cash",
+      "type": "income",
+      "category": "salary",
+      "amount": 10000,
+      "description": "salary rceived",
+      "status": "received",
+      "time": "01:38 PM",
+      "id": "ISCNMtX"
+    },
+    {
+      "userId": "ViqhDei",
+      "username": "afreedct",
+      "date": "2025-08-10",
+      "account": "cash",
+      "type": "expense",
+      "category": "kuri",
+      "amount": 1000,
+      "description": "paid kuri paisa\n",
+      "status": "paid",
+      "time": "01:46 PM",
+      "id": "h6LpndX"
+    },
+    {
+      "userId": "ViqhDei",
+      "username": "afreedct",
+      "date": "2025-09-03",
+      "account": "cash",
+      "type": "income",
+      "category": "salary",
+      "amount": 10000,
+      "description": "salary received",
+      "status": "received",
+      "time": "01:49 PM",
+      "id": "SBqCgOq"
+    }
+  ],
+  "users": [
+    {
+      "id": "aeb9",
+      "username": "afreed",
+      "password": "$2b$10$2DBh68Q940kjMDS9NY/A7el0y7w.6APgMcIMb99XMYNYrNhWAnx/2",
+      "role": "admin"
+    },
+    {
+      "id": "ad58",
+      "username": "harypoter",
+      "password": "$2b$10$EFfZnoJ1iXkgJAB4K1hnC.UCzjDacyradqvyXcjBGa2XT3VEaVk1u",
+      "role": "user"
+    },
+    {
+      "username": "admin",
+      "password": "$2b$10$1aYbAY5V.NGNo.CvvlnuNuPwyEZOJMpXNd61fI5uMZXkAQ9GUP5se",
+      "role": "admin",
+      "id": "wMZoG8C"
+    },
+    {
+      "username": "anwar",
+      "password": "$2b$10$g7EG422G8Jb5wbkhSLCfmeN4/LTzDBA1c./B9S1F8h7cO8ymV5RfK",
+      "role": "user",
+      "id": "RRzCSDp"
+    },
+    {
+      "username": "afreedct",
+      "password": "$2b$10$7BpsXeKWG8euA6mvx7Y9seL1/RXd2KvMo9seWhHA6JC06cDnC781y",
+      "role": "user",
+      "id": "ViqhDei"
+    }
+  ],
+  "comments": [
+    {
+      "id": "d3a3",
+      "userId": null,
+      "username": "rocky",
+      "date": "01/08/2025",
+      "time": "12:11 PM",
+      "comment": "keep going bro",
+      "reply": [
+        {
+          "userId": "ViqhDei",
+          "username": "afreedct",
+          "date": "02/08/2025",
+          "time": "01:34 PM",
+          "replyComment": "thanks❤️"
+        }
+      ]
+    },
+    {
+      "id": "f831",
+      "userId": "ad58",
+      "username": "harypoter",
+      "date": "02/08/2025",
+      "time": "12:53 PM",
+      "comment": "cool nice work",
+      "reply": [
+        {
+          "userId": "ViqhDei",
+          "username": "afreedct",
+          "date": "02/08/2025",
+          "time": "01:34 PM",
+          "replyComment": "thanks❤️"
+        }
+      ]
+    },
+    {
+      "userId": "RRzCSDp",
+      "username": "anwar",
+      "date": "02/08/2025",
+      "time": "01:23 PM",
+      "comment": "super bro",
+      "reply": [
+        {
+          "userId": "ViqhDei",
+          "username": "afreedct",
+          "date": "02/08/2025",
+          "time": "01:34 PM",
+          "replyComment": "thanks❤️"
+        }
+      ],
+      "id": "kK4YpPn"
+    }
+  ]
+}
