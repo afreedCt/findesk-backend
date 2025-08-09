@@ -311,32 +311,9 @@
       "password": "$2b$10$g7EG422G8Jb5wbkhSLCfmeN4/LTzDBA1c./B9S1F8h7cO8ymV5RfK",
       "role": "user",
       "id": "RRzCSDp"
-    },
-    {
-      "username": "afreedct",
-      "password": "$2b$10$7BpsXeKWG8euA6mvx7Y9seL1/RXd2KvMo9seWhHA6JC06cDnC781y",
-      "role": "user",
-      "id": "ViqhDei"
     }
   ],
   "comments": [
-    {
-      "id": "d3a3",
-      "userId": null,
-      "username": "rocky",
-      "date": "01/08/2025",
-      "time": "12:11 PM",
-      "comment": "keep going bro",
-      "reply": [
-        {
-          "userId": "ViqhDei",
-          "username": "afreedct",
-          "date": "02/08/2025",
-          "time": "01:34 PM",
-          "replyComment": "thanks❤️"
-        }
-      ]
-    },
     {
       "id": "f831",
       "userId": "ad58",
@@ -360,16 +337,17 @@
       "date": "02/08/2025",
       "time": "01:23 PM",
       "comment": "super bro",
-      "reply": [
-        {
-          "userId": "ViqhDei",
-          "username": "afreedct",
-          "date": "02/08/2025",
-          "time": "01:34 PM",
-          "replyComment": "thanks❤️"
-        }
-      ],
+      "reply": [],
       "id": "kK4YpPn"
+    },
+    {
+      "userId": "-TPcntu",
+      "username": "gg",
+      "date": "05/08/2025",
+      "time": "11:14 PM",
+      "comment": "kai",
+      "reply": [],
+      "id": "74GNMip"
     }
   ]
 }

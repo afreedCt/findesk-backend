@@ -1,5 +1,5 @@
 const jsonserver=require('json-server')
-const cors = require('cors'); // ✅ add this
+// const cors = require('cors'); // ✅ add this
 
 const mpServer=jsonserver.create()
 // opening all middlewares (cors,etc)
@@ -10,7 +10,7 @@ const route=jsonserver.router('data.json')
 const PORT=process.env.PORT || 3000
 
 // ✅ Use CORS before middlewares
-mpServer.use(cors());
+// mpServer.use(cors());
 // using all middleares
 mpServer.use(middleware)
 mpServer.use(route)
