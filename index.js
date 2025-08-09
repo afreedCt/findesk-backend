@@ -1,5 +1,5 @@
 const jsonserver=require('json-server')
-// const cors = require('cors'); // ✅ add this
+const cors = require('cors'); // ✅ add this
 
 const mpServer=jsonserver.create()
 // opening all middlewares (cors,etc)
@@ -9,8 +9,13 @@ const route=jsonserver.router('data.json')
 // PORT from webservice || 3000
 const PORT=process.env.PORT || 3000
 
-// ✅ Use CORS before middlewares
-// mpServer.use(cors());
+// Enable CORS and preflight
+mpServer.use(cors({
+  origin: 'http://localhost:5173',
+  credentials: true
+}));
+mpServer.options('*', cors()); // Preflight support
+
 // using all middleares
 mpServer.use(middleware)
 mpServer.use(route)
